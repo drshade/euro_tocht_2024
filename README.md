@@ -2,7 +2,7 @@
 
 ## Overall Route
 
-| Stage | Date | End | Distance | Accomodation |
+| Stage | Date | Destination | Distance | Accomodation |
 | --- | ---- | --- | -------- | ------------ |
 | 1   | 2 June | Rockanje, NL | 104km | 4 rooms at [Badhotel Rockanje](https://www.booking.com/hotel/nl/badhotelrockanje.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaKkBiAEBmAEJuAEHyAEP2AEB6AEB-AELiAIBqAIDuAKDp4quBsACAdICJGI3YzlmZjlmLTE0ODctNDVhNi05ZjNmLTBiYTIxYWI4YWY2NdgCBuACAQ&sid=24f8f54299d0753e47fad105fe5e4632&aid=304142) |
 | 2   | 3 June | Bruges, BE | 115km | 2 rooms at [Beautiful flat+terrace](https://www.airbnb.com/rooms/32805740?source_impression_id=p3_1707250775_ZXJ8yDRCLfAI8tBK) |
