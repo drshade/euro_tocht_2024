@@ -13,6 +13,27 @@
 
 The day-by-day route is available to browse at [Komoot](https://www.komoot.com/collection/2554451/-euro-tocht-2024)
 
+### Arrival Itinery
+
+Boys arrive Friday midday.
+Tom can meet at airport but Dimi & Andrew take Uber Van directly (because of bike), Caz comes with Tom.
+Tom & Caz collect 2x bikes from maats and goto boys apartment in the afternoon. 
+We go for walk to find late lunch/dinner somewhere in the neighborhood (6pm).
+Dimi + Andrew go to Anne Frank 8:30pm.
+
+Saturday morning hire a boat at Nassaukade 351 (Mokumboot) and go through the canals - 9:30 to 12:30 booking
+
+Sunday we leave on bikes early (8am) from ? Where do we meet?
+
+### Restaurant bookings:
+
+Saturday 1st (Amsterdam) - ? 
+Sunday 2nd (Rockanje) - Badhotel Brasserie - 7:00
+Monday 3rd (Bruges) - Restaurant Diligence - 7:30
+Tuesday 4rd (Tournai) - L'Arche de Noé - 7:30
+Wednesday 5th (Leir) - Ristorante Annaloro - 7:30
+Thursday 6th (Den Bosch) - Rodeo Den Bosch - 7:30
+
 ### Day 1 - Amsterdam to Rockanje
 
 [![embedded](https://www.komoot.com/tour/1432967177/embed?height=700&hm=true&image=1&profile=0&share_token=aY7rBV59d3EepJREp1jKzLiPWPfwDjXYwFoiljVoNOK2jI5jxR&width=640)](https://www.komoot.com/tour/1432967177?ref=profile&share_token=aY7rBV59d3EepJREp1jKzLiPWPfwDjXYwFoiljVoNOK2jI5jxR)
@@ -22,7 +43,7 @@ The day-by-day route is available to browse at [Komoot](https://www.komoot.com/c
 - Amsterdamse Bos
 - Beachfront Katwijk
 - Duinen before Den Hage 
-- Delft Market Square
+- Delft Market Square for lunch
 - Crossing the Nieuwe Waterweg ferry (Rotterdam harbour entrance)
 
 ### Day 2 - Rockanje to Bruges
@@ -59,7 +80,7 @@ The day-by-day route is available to browse at [Komoot](https://www.komoot.com/c
 #### Highlights
 
 - Baarle-Hertog and Baarle-Nassau - a beautiful little town with multiple Belgium/Netherlands enclaves and border-crossings carving it up.
-
+- s'Hertogenbosch -> 
 
 ### Day 6 - s'Hertogenbosch to Amsterdam
 
